@@ -15,6 +15,10 @@ This project covers topics like ...
 <img width="201" height="437" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-30 at 02 32 40" src="https://github.com/user-attachments/assets/1d302dc6-2dc2-4752-bcd8-6c33732e261e" />
 <img width="201" height="437" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-30 at 02 32 42" src="https://github.com/user-attachments/assets/ff99047e-4b5a-4dfd-9153-02f414b4ca48" />
 
+#### Accepting multi-line text input with TextEditor
+
+<img width="201" height="437" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-30 at 02 41 22" src="https://github.com/user-attachments/assets/afd53617-8b20-4f59-8520-0b1e95d5bcdb" />
+
 
 ### Built With
 
