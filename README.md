@@ -19,6 +19,9 @@ This project covers topics like ...
 
 <img width="201" height="437" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-30 at 02 41 22" src="https://github.com/user-attachments/assets/afd53617-8b20-4f59-8520-0b1e95d5bcdb" />
 
+#### Introduction to SwiftData and SwiftUI
+
+<img width="201" height="437" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-30 at 02 56 57" src="https://github.com/user-attachments/assets/e6ba0a2a-ce49-44fe-8da7-9bf030ea2472" />
 
 ### Built With
 
