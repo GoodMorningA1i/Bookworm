@@ -23,6 +23,23 @@ This project covers topics like ...
 
 <img width="201" height="437" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-30 at 02 56 57" src="https://github.com/user-attachments/assets/e6ba0a2a-ce49-44fe-8da7-9bf030ea2472" />
 
+### Day 54
+
+#### Creating books with SwiftData
+
+<img width="201" height="437" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-09 at 11 30 00" src="https://github.com/user-attachments/assets/823ba5dd-a5b5-4833-b646-38d1f867ac8a" />
+
+<img width="201" height="437" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-09 at 11 29 58" src="https://github.com/user-attachments/assets/c86ebe81-13f8-4784-9e69-3beb23cfed13" />
+
+#### Adding a custom star rating component
+
+<img width="201" height="437" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-09 at 11 41 45" src="https://github.com/user-attachments/assets/98f33c8d-5ee7-4b67-a5b9-d22dcc0d9925" />
+
+
+#### Building a list with @Query
+
+<img width="201" height="437" alt="Simulator Screenshot - iPhone 17 Pro - 2026-01-10 at 20 15 19" src="https://github.com/user-attachments/assets/32d8168c-f877-4e98-a14b-9c64f1fad777" />
+
 ### Built With
 
 Xcode, SwiftUI
